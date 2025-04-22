@@ -1,25 +1,62 @@
-# Luis González | @iamluisgb
+Perfecto, aquí tienes el README actualizado con esa información, manteniendo el estilo profesional y estructurado. He añadido tu rol como **Team Leader** en Famytec y el hecho de que estás asignado al cliente Roche:
 
-Site Reliability Engineer with a background in Backend Development with Python. 
+---
 
-Currently, my job is to manage an instance of Rundeck within Roche (the pharmaceutical company) where about 3.000 jobs are executed daily: 
-- Deploying CI/CD with Ansible and Jenkins.
-- Improving Rundeck performance within a Kubernetes cluster.
-- Creating plugins that integrate internal tools with Rundeck using Python and bash.
-- Advise rundeck users to create their jobs.
+# Luis González | [@iamluisgb](https://www.linkedin.com/in/iamluisgb/)
 
-I also have experience building apps with Python/Django. Also using technologies such as Docker, Celery, HTML and Javascript. I have worked with MySQL, PostgreSQL and SQL Server. 
+**Site Reliability Engineer** with a strong background in **Backend Development** using **Python**, currently working as a **Team Leader at Famytec**, assigned to the client **Roche**.
 
-The aspect of my job that I enjoy the most is the design and implementation process of solutions. I am a proactive individual who thrives on challenges and finding the best ways to solve problems. I am particularly passionate about learning new technologies and applying them to my work to improve the performance and efficiency of the applications I develop.
+---
 
-I am able to work independently on a project or integrate into a multidisciplinary team and follow Agile methodologies. I am dedicated to maintaining clear and open communication to ensure alignment with the team and company's objectives.
+### 💼 About Me
 
-Invite me to connect if you think there are professional synergies between us: luisgonzalezb93@gmail.com
+I work at **Famytec**, a technology consultancy, where I lead a team of **Site Reliability Engineers**.  
+My current assignment is at **Roche**, the global pharmaceutical company, where I manage a large-scale **Rundeck** instance responsible for running over **3,000 jobs daily**.
 
+My role involves:
 
-### 🎆 Skills
+- Deploying and maintaining **CI/CD pipelines** with **Ansible** and **Gitlab**.  
+- Optimizing **Rundeck performance** in a **Kubernetes** environment.  
+- Developing custom **plugins and integrations** with internal tools using **Python** and **Bash**.  
+- Supporting and advising internal teams on how to design and maintain their Rundeck jobs.
 
-CI/CD | Jenkins | Ansible | Docker | Kubernetes | Rundeck | Git | Github | Gitlab | Bitbucket |  Gitflow | Trunk Based Development
-Python | Django | Django Rest Framework | Numpy | Pandas | R | Shiny | Plotly | JavaScript | MySQL | PostgreSQL 
-Cloud Computing | AWS| Linux | Backend | Full-Stack | English, Spanish – Both professional proficiency or above.
- 
+I also have experience building applications with **Python/Django**, and working with technologies such as:
+
+- **Docker**, **Celery**, **HTML**, **JavaScript**
+- Databases: **MySQL**, **PostgreSQL**, and **SQL Server**
+
+---
+
+### 🧭 Leadership & Mentoring
+
+As a **Team Leader at Famytec**, I guide and support a group of SREs embedded in different client projects. I focus on fostering continuous learning, sharing best practices, and ensuring high-quality engineering standards across the team.
+
+---
+
+### 💡 What Drives Me
+
+I'm passionate about **solution design** and the **implementation of reliable, scalable systems**. I enjoy tackling complex challenges and continuously seek opportunities to improve performance, automation, and efficiency through the smart use of technology.
+
+I'm a proactive professional who learns fast and adapts easily. Whether working independently or as part of a cross-functional team, I follow **Agile methodologies** and value **clear, open communication** to align with business goals.
+
+---
+
+### 📬 Let’s Connect
+
+If you believe we share professional interests or could collaborate on something exciting, feel free to reach out:
+
+📧 **luisgonzalezb93@gmail.com**
+
+---
+
+### 🛠️ Skills
+
+**CI/CD** | Gitlab | Ansible | Docker | Kubernetes | Rundeck  
+**Version Control** | Git | GitHub | GitLab | Bitbucket | Gitflow | Trunk-Based Development  
+**Backend** | Python | Django | Django Rest Framework | Celery  
+**Data** | Numpy | Pandas | SQL | MySQL | PostgreSQL | SQL Server  
+**Frontend** | HTML | JavaScript  
+**Cloud & Ops** | AWS | Linux  
+**Languages** | Spanish 🇪🇸 & English 🇬🇧 – Professional working proficiency
+
+---
