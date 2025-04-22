@@ -1,5 +1,3 @@
-Perfecto, aquí tienes el README actualizado con esa información, manteniendo el estilo profesional y estructurado. He añadido tu rol como **Team Leader** en Famytec y el hecho de que estás asignado al cliente Roche:
-
 ---
 
 # Luis González | [@iamluisgb](https://www.linkedin.com/in/iamluisgb/)
