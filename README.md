@@ -1,5 +1,3 @@
----
-
 # Luis González | [@iamluisgb](https://www.linkedin.com/in/iamluisgb/)
 
 **Site Reliability Engineer** with a strong background in **Backend Development** using **Python**, currently working as a **Team Leader at Famytec**, assigned to the client **Roche**.
