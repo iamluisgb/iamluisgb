@@ -1,4 +1,4 @@
-# Luis González | [@iamluisgb](https://www.linkedin.com/in/iamluisgb/)
+# Luis González | [@iamluisgb](https://www.linkedin.com/in/iamluisgb/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 **Site Reliability Engineer** with a strong background in **Backend Development** using **Python**, currently working as a **Team Leader at Famytec**, assigned to the client **Roche**.
 
